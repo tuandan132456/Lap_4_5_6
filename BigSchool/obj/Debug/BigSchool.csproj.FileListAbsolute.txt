@@ -110,5 +110,12 @@ C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.Gener
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations._new.resources
-C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache

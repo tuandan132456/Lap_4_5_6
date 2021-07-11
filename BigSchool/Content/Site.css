@@ -43,3 +43,25 @@ textarea {
     left: 0;
     z-index: 1030;
 }
+
+/*Course layout*/
+.course  {
+    list-style: none;
+    margin-top: 10px;
+}
+.course > li {
+    position: relative;
+    margin-bottom: 30px;
+}
+.course > li .date {
+    text-align: center;
+    background-color: #d9edf7;
+    color: rgb(0 0 0 / 25%);
+    width: 60px;
+    border-radius: 8px;
+}
+.course > li .details {
+    position: absolute;
+    top: 0;
+    left: 70px;
+}

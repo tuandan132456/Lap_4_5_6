@@ -118,4 +118,6 @@ C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.xml
 C:\Users\Tuand\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
-C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser1.resources
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\Tuand\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources

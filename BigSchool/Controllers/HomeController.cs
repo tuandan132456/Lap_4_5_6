@@ -1,10 +1,10 @@
-﻿using BigSchool.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿
 using System.Data.Entity;
+using BigSchool.Models;
+using BigSchool.ViewModels;
+using System.Web.Mvc;
+using System.Linq;
+using System;
 
 namespace BigSchool.Controllers
 {
@@ -23,7 +23,13 @@ namespace BigSchool.Controllers
                 .Include(c => c.Category)
                 .Where(c => c.DateTime > DateTime.Now);
 
-            return View(upcomingCourses);
+            var viewMoldel = new Class1
+            {
+                upcommingcourses = upcomingCourses,
+                ShowAction = User.Identity.IsAuthenticated
+            };
+
+            return View(viewMoldel);
         }
 
         public ActionResult About()
